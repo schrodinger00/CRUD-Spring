@@ -1,5 +1,5 @@
 # CRUD-Spring
-This Project is for work entry test at PT. Sarana Pactindo. This is my first time using Java Spring although it's challenging i could manage to finish it in time.
+This Project is for work entry test at PT. Sarana Pactindo. This is my first time using Java Spring although it's challenging cause i had to search a lot of example and fixing bugs, but i could manage to finish it in time.
 Step by Step to open this Project:
 1. Create database first or just use the script from database, and then create a table name users.
 2. Set up application.properties in resources folder and adjust it with your own environtment.
